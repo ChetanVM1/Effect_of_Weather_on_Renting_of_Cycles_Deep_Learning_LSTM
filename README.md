@@ -1,6 +1,6 @@
 # Effect_of_Weather_on_Renting_of_Cycles_Deep_Learning_LSTM
 
-# Work in progress
+### Work in progress
 
 The objective of the case study is to determine the effect of weather conditions on renting of cycles in a city.
 
