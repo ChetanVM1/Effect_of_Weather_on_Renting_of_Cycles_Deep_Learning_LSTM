@@ -1,5 +1,9 @@
 # Effect_of_Weather_on_Renting_of_Cycles_Deep_Learning_LSTM
+
+# Work in progress
+
 The objective of the case study is to determine the effect of weather conditions on renting of cycles in a city.
+
 A time series-based regression dataset has 21 input features and 1 target variable. 
 Each check point represents the number cycles that have been rented from that particular checkpoint on the corresponding date.
 Target is the sum of number of cycles that have been rented on that particular date. 
@@ -8,3 +12,4 @@ Also all the check points are in a single city for which weather data is availab
 
 Long Short-Term Memory Recurrent Learning algorithm is used to determine the impacting weather parameters on rental business. 
 For batch size of 16 and epochs of 500, the mean absolute percentage error is found to be 0.025.
+
