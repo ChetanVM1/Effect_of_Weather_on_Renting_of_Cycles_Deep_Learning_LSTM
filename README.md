@@ -8,7 +8,7 @@ A time series-based regression dataset has 21 input features and 1 target variab
 Each check point represents the number cycles that have been rented from that particular checkpoint on the corresponding date.
 Target is the sum of number of cycles that have been rented on that particular date. 
 In addition to that, daily weather data of the particular city is also available. 
-Also all the check points are in a single city for which weather data is available.
+Also all the check points are in the same city for which weather data is considered.
 
 Long Short-Term Memory Recurrent Learning algorithm is used to determine the impacting weather parameters on rental business. 
 For batch size of 16 and epochs of 500, the mean absolute percentage error is found to be 0.025.
