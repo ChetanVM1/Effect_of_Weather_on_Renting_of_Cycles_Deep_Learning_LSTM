@@ -10,6 +10,6 @@ Target is the sum of number of cycles that have been rented on that particular d
 In addition to that, daily weather data of the particular city is also available. 
 Also all the check points are in the same city for which weather data is considered.
 
-Long Short-Term Memory Recurrent Learning algorithm is used to determine the impacting weather parameters on rental business. 
+Long Short Term Memory Recurrent Learning algorithm is used to determine the impacting weather parameters on rental business. 
 For batch size of 16 and epochs of 500, the mean absolute percentage error is found to be 0.025.
 
